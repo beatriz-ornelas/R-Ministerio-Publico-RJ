@@ -1,12 +1,14 @@
-# numbers
+1# numbers
 1
 1+1
 class(1)
+class(TRUE)
 class(1L)
 1:10
 c(1,10,20,-10)
 sqrt(c(1,10,20,-10))
 c(1:10,20,100:200)
+
 
 # NA
 NA
